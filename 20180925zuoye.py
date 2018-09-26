@@ -54,6 +54,17 @@ num4=(num3+a)*(1+0.00417)
 num5=(num4+a)*(1+0.00417)
 num6=(num5+a)*(1+0.00417)
 print('account value',num6)
+
+for i range(6)
+print(i,s)
+b=1+0.00417
+s=(b*(a+s))
+
+
+
+
+
+
 '''
 
 '''
